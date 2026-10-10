@@ -1,0 +1,134 @@
+[
+  {
+    "id": "jal-jeevan-mission",
+    "name": "Jal Jeevan Mission (Har Ghar Jal)",
+    "name_mr": "जल जीवन मिशन (हर घर जल) व ग्रामीण पाणी पुरवठा योजना",
+    "name_hi": "जल जीवन मिशन (हर घर जल)",
+    "short_code": "JJM-WATER",
+    "category": "water",
+    "level": "Central",
+    "department": "Rural Water Supply & Sanitation Department / Jal Jeevan Mission",
+    "description": "Functional tap water connection providing 55 litres per person per day to every rural household.",
+    "eligibility": [
+      "Rural household in registered Gram Panchayat",
+      "Lack of individual tap connection or non-functional village standpost"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Gram Panchayat Residence Proof (Namuna 8)",
+      "Bank Passbook"
+    ],
+    "portal": "https://jaljeevanmission.gov.in",
+    "is_demo": true
+  },
+  {
+    "id": "pm-awaas-yojana-gramin",
+    "name": "Pradhan Mantri Awaas Yojana - Gramin (PMAY-G)",
+    "name_mr": "प्रधानमंत्री आवास योजना - ग्रामीण (PMAY-G) व घरकुल योजना",
+    "name_hi": "प्रधानमंत्री आवास योजना - ग्रामीण",
+    "short_code": "PMAY-G-HOUSING",
+    "category": "housing",
+    "level": "Central",
+    "department": "Rural Development Department / Gram Panchayat Housing Cell",
+    "description": "Financial assistance of Rs 1.20 Lakhs for pucca house construction to rural houseless families.",
+    "eligibility": [
+      "Houseless or living in kutcha house with 0-2 rooms",
+      "Enrolled in SECC/Awaas+ priority list"
+    ],
+    "documents": [
+      "Aadhaar Card of all adult members",
+      "Bank Account with DBT enabled",
+      "Land Record / Gramthane Certificate (Namuna 8)",
+      "MGNREGA Job Card"
+    ],
+    "portal": "https://pmayg.nic.in",
+    "is_demo": true
+  },
+  {
+    "id": "pm-kusum-solar-pump",
+    "name": "PM-KUSUM Solar Agricultural Pump Scheme",
+    "name_mr": "पीएम-कुसुम सौर कृषी पंप योजना",
+    "name_hi": "पीएम-कुसुम सोलर कृषि पंप योजना",
+    "short_code": "PM-KUSUM-ELEC",
+    "category": "electricity",
+    "level": "Central",
+    "department": "Ministry of New and Renewable Energy / State DISCOM",
+    "description": "Up to 90% subsidy for installation of solar pumps for farm irrigation to avoid nighttime load shedding.",
+    "eligibility": [
+      "Landholding farmer with 7/12 extract",
+      "Assured water source (well or borewell)"
+    ],
+    "documents": [
+      "7/12 & 8-A Land Extract",
+      "Aadhaar Card",
+      "Bank Passbook copy"
+    ],
+    "portal": "https://pmkusum.mnre.gov.in",
+    "is_demo": true
+  },
+  {
+    "id": "mahadbt-post-matric-scholarship",
+    "name": "Post-Matric Scholarship (MahaDBT / National Scholarship Portal)",
+    "name_mr": "महाडीबीटी शिष्यवृत्ती व राष्ट्रीय शिष्यवृत्ती पोर्टल",
+    "name_hi": "राष्ट्रीय छात्रवृत्ति पोर्टल (NSP) एवं राज्य छात्रवृत्ति",
+    "short_code": "SCHOLARSHIP-ED",
+    "category": "education",
+    "level": "State",
+    "department": "Social Justice & Special Assistance Department",
+    "description": "Tuition and maintenance allowance for higher education to economically weaker and reserved category students.",
+    "eligibility": [
+      "Regular enrolled student in recognized college",
+      "Annual family income within prescribed bracket"
+    ],
+    "documents": [
+      "Aadhaar linked to bank account (NPCI DBT active)",
+      "Tehsildar Income Certificate",
+      "Previous marksheet & Fee Receipt"
+    ],
+    "portal": "https://scholarships.gov.in",
+    "is_demo": true
+  },
+  {
+    "id": "pm-gram-sadak-yojana",
+    "name": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+    "name_mr": "प्रधानमंत्री ग्राम सडक योजना (PMGSY) व ग्रामीण रस्ता सुधारणा",
+    "name_hi": "प्रधानमंत्री ग्राम सड़क योजना (PMGSY)",
+    "short_code": "PMGSY-ROAD",
+    "category": "roads",
+    "level": "Central",
+    "department": "Public Works Department (PWD) / Zilla Parishad Works",
+    "description": "All-weather blacktopped road connectivity to rural villages and repair of damaged arterial village routes.",
+    "eligibility": [
+      "Rural habitation connection requiring pothole repair or all-weather road"
+    ],
+    "documents": [
+      "Photographs of damaged road",
+      "Gram Panchayat resolution or signed citizen petition"
+    ],
+    "portal": "https://omms.nic.in",
+    "is_demo": true
+  },
+  {
+    "id": "sanjay-gandhi-old-age-pension",
+    "name": "Indira Gandhi National Old Age Pension & Sanjay Gandhi Niradhar",
+    "name_mr": "संजय गांधी निराधार योजना व राष्ट्रीय वृद्धापकाळ पेन्शन",
+    "name_hi": "वृद्धावस्था पेंशन एवं निराधार योजना",
+    "short_code": "PENSION-OLDAGE",
+    "category": "pension",
+    "level": "State",
+    "department": "Revenue & Social Justice Department (Tehsildar Office)",
+    "description": "Monthly DBT financial pension of Rs 1,500 to destitute, elderly (65+ yrs), and widows.",
+    "eligibility": [
+      "Age 65+ years",
+      "Annual income below Rs 50,000",
+      "No adult earning support"
+    ],
+    "documents": [
+      "Age Proof / School Leaving / Medical Certificate",
+      "Income Certificate from Tehsildar",
+      "Ration Card and Bank Passbook"
+    ],
+    "portal": "https://nsap.nic.in",
+    "is_demo": true
+  }
+]

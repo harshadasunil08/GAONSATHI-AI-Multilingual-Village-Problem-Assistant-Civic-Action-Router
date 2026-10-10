@@ -1,0 +1,42 @@
+[
+  {
+    "id": "srv-water-tanker",
+    "title": "Emergency Drinking Water Tanker Request",
+    "category": "water",
+    "department": "Tahsildar & Panchayat Samiti Water Supply",
+    "turnaround_days": 2,
+    "sla": "48 Hours"
+  },
+  {
+    "id": "srv-transformer-repair",
+    "title": "Agricultural Feeder Transformer Replacement",
+    "category": "electricity",
+    "department": "MSEDCL / DISCOM Junior Engineer Office",
+    "turnaround_days": 3,
+    "sla": "72 Hours"
+  },
+  {
+    "id": "srv-income-certificate",
+    "title": "Digital Income Certificate (Aaple Sarkar / e-District)",
+    "category": "documents",
+    "department": "Revenue Department (Tehsildar Office)",
+    "turnaround_days": 7,
+    "sla": "7 Days"
+  },
+  {
+    "id": "srv-mgnrega-work-demand",
+    "title": "MGNREGA 15-Day Guaranteed Work Demand (Form 4)",
+    "category": "employment",
+    "department": "Gram Rozgar Sahayak & Gram Sevak",
+    "turnaround_days": 15,
+    "sla": "15 Days"
+  },
+  {
+    "id": "srv-pmay-geotag",
+    "title": "PMAY-G Rural Housing Geo-Tag & Installment Release",
+    "category": "housing",
+    "department": "Gram Panchayat Housing Cell & BDO",
+    "turnaround_days": 10,
+    "sla": "10 Days"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "SP-01",
+    "language": "mr",
+    "problem": "माझ्या गावात पाणी नियमित येत नाही.",
+    "category": "water",
+    "expected_scheme": "Jal Jeevan Mission",
+    "urgency": "high"
+  },
+  {
+    "id": "SP-02",
+    "language": "mr",
+    "problem": "माझ्या मुलाला scholarship मिळाली नाही.",
+    "category": "education",
+    "expected_scheme": "MahaDBT Post-Matric Scholarship",
+    "urgency": "medium"
+  },
+  {
+    "id": "SP-03",
+    "language": "mr",
+    "problem": "गावातील मुख्य रस्ता खूप खराब आहे आणि खड्ड्यांमुळे अपघात होतात.",
+    "category": "roads",
+    "expected_scheme": "PMGSY Rural Roads",
+    "urgency": "high"
+  },
+  {
+    "id": "SP-04",
+    "language": "mr",
+    "problem": "माझ्या घरासाठी कोणती सरकारी योजना मिळू शकते? आमचे कच्चे घर पावसात गळते.",
+    "category": "housing",
+    "expected_scheme": "Pradhan Mantri Awaas Yojana - Gramin",
+    "urgency": "medium"
+  },
+  {
+    "id": "SP-05",
+    "language": "mr",
+    "problem": "शेतात वीज वारंवार जाते, ट्रान्सफॉर्मर जळाला आहे.",
+    "category": "electricity",
+    "expected_scheme": "PM-KUSUM Solar Pump",
+    "urgency": "high"
+  },
+  {
+    "id": "SP-06",
+    "language": "mr",
+    "problem": "मला वृद्धापकाळ पेन्शनसाठी अर्ज करायचा आहे.",
+    "category": "pension",
+    "expected_scheme": "Sanjay Gandhi Niradhar / IGNOAPS",
+    "urgency": "medium"
+  },
+  {
+    "id": "SP-07",
+    "language": "hi",
+    "problem": "गांव में पीने का पानी नियमित नहीं आता, पाइपलाइन टूटी है।",
+    "category": "water",
+    "expected_scheme": "Jal Jeevan Mission",
+    "urgency": "high"
+  },
+  {
+    "id": "SP-08",
+    "language": "hi",
+    "problem": "खेत में ट्रांसफार्मर जल गया है, धान की फसल सूख रही है।",
+    "category": "electricity",
+    "expected_scheme": "PM-KUSUM / DISCOM",
+    "urgency": "critical"
+  },
+  {
+    "id": "SP-09",
+    "language": "hi",
+    "problem": "प्रधानमंत्री आवास योजना की दूसरी किस्त नहीं आई।",
+    "category": "housing",
+    "expected_scheme": "PMAY-G",
+    "urgency": "medium"
+  },
+  {
+    "id": "SP-10",
+    "language": "en",
+    "problem": "There is no drinking water supply in our village for the past two weeks.",
+    "category": "water",
+    "expected_scheme": "Jal Jeevan Mission",
+    "urgency": "high"
+  },
+  {
+    "id": "SP-11",
+    "language": "en",
+    "problem": "My crop insurance claim under PMFBY was rejected.",
+    "category": "agriculture",
+    "expected_scheme": "PM-KISAN / PMFBY",
+    "urgency": "high"
+  },
+  {
+    "id": "SP-12",
+    "language": "en",
+    "problem": "How to get 7/12 land record mutation certificate online?",
+    "category": "documents",
+    "expected_scheme": "Aaple Sarkar / Digital Seva",
+    "urgency": "low"
+  }
+]
